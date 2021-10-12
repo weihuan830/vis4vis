@@ -1,0 +1,134 @@
+[88095:20743:0626/003232.466248:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -202
+[88085:30979:0626/003232.466900:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -202
+2021-06-26 00:32:58.992 Google Chrome[88085:45919048] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+[88095:20743:0626/003302.392114:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -202
+[88085:30979:0626/003302.392331:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -202
+[88095:20743:0626/003349.207630:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -202
+[88085:30979:0626/003349.208145:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -202
+[88095:20743:0626/003520.955191:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -202
+[88085:30979:0626/003520.955673:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -202
+[88095:20743:0626/003815.034824:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -202
+[88085:30979:0626/003815.035271:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -202
+[88095:20743:0626/004026.205667:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[88095:20743:0626/004026.206828:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[88095:20743:0626/004026.207306:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[88085:775:0626/004106.864878:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+[88085:775:0626/004106.865261:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/core/sdk/sdk.js (1)
+[88085:775:0626/004106.865329:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/models/extensions/extensions.js (1)
+[88085:775:0626/004307.326019:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+[88085:775:0626/004307.326406:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/core/sdk/sdk.js (1)
+[88085:775:0626/004307.327155:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/models/extensions/extensions.js (1)
+[88095:20743:0626/004425.457938:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[88095:20743:0626/004537.795067:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -202
+[88085:30979:0626/004537.795589:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -202
+[88085:775:0626/004624.453828:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+[88085:775:0626/004624.455734:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/core/sdk/sdk.js (1)
+[88085:775:0626/004624.455827:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/models/extensions/extensions.js (1)
+[88085:775:0626/004836.217969:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+[88085:775:0626/004836.218296:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/core/sdk/sdk.js (1)
+[88085:775:0626/004836.218390:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/models/extensions/extensions.js (1)
+[88095:20743:0626/005537.870374:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -202
+[88085:30979:0626/005537.870829:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -202
+[88085:775:0626/010430.824818:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+[88085:775:0626/010430.825369:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/core/sdk/sdk.js (1)
+[88085:775:0626/010430.825437:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/models/extensions/extensions.js (1)
+[88095:20743:0626/010537.902149:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -202
+[88085:30979:0626/010537.902816:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -202
+[88085:775:0626/010935.368180:ERROR:CONSOLE(1)] "Extension server error: Object not found: <top>", source: devtools://devtools/bundled/models/extensions/extensions.js (1)
+[88085:775:0626/010935.507944:ERROR:CONSOLE(1)] "Extension server error: Object not found: <top>", source: devtools://devtools/bundled/models/extensions/extensions.js (1)
+[88085:775:0626/010935.508411:ERROR:CONSOLE(1)] "Extension server error: Object not found: <top>", source: devtools://devtools/bundled/models/extensions/extensions.js (1)
+[10052:68611:0626/011158.902583:ERROR:sdp_offer_answer.cc(3112)] The order of m-lines in subsequent offer doesn't match order from previous offer/answer. (INVALID_PARAMETER)
+[10052:68611:0626/011158.903005:ERROR:sdp_offer_answer.cc(1930)] Failed to set local offer sdp: The order of m-lines in subsequent offer doesn't match order from previous offer/answer.
+[88095:20743:0626/011159.004904:ERROR:socket_manager.cc(128)] Failed to resolve address for stun.services.mozilla.com., errorcode: -105
+[88095:20743:0626/011159.004979:ERROR:socket_manager.cc(128)] Failed to resolve address for stun.services.mozilla.com., errorcode: -105
+[88095:20743:0626/011537.975612:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -202
+[88085:30979:0626/011537.976107:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -202
+[88094:775:0626/011717.293493:ERROR:shared_image_manager.cc(143)] SharedImageManager::ProduceGLTexture: Trying to produce a representation from a non-existent mailbox. BD:21:BD:CC:88:06:1B:64:89:35:BD:D6:94:30:F0:B9
+[88094:775:0626/011717.296458:ERROR:gles2_cmd_decoder.cc(18936)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoCreateAndTexStorage2DSharedImageINTERNAL: invalid mailbox name
+[88094:775:0626/011717.296557:ERROR:gles2_cmd_decoder.cc(18957)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+[88094:775:0626/011717.296620:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.296661:ERROR:shared_image_manager.cc(143)] SharedImageManager::ProduceGLTexture: Trying to produce a representation from a non-existent mailbox. 1C:83:57:27:6F:E9:89:C1:62:44:35:CB:C0:14:87:49
+[88094:775:0626/011717.296712:ERROR:gles2_cmd_decoder.cc(18936)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoCreateAndTexStorage2DSharedImageINTERNAL: invalid mailbox name
+[88094:775:0626/011717.296748:ERROR:gles2_cmd_decoder.cc(18957)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+[88094:775:0626/011717.296848:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.296970:ERROR:shared_image_manager.cc(143)] SharedImageManager::ProduceGLTexture: Trying to produce a representation from a non-existent mailbox. B6:E2:B1:79:BC:25:7F:6E:2E:72:27:59:1B:52:60:C3
+[88094:775:0626/011717.297077:ERROR:gles2_cmd_decoder.cc(18936)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoCreateAndTexStorage2DSharedImageINTERNAL: invalid mailbox name
+[88094:775:0626/011717.297178:ERROR:gles2_cmd_decoder.cc(18957)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+[88094:775:0626/011717.297279:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.297338:ERROR:shared_image_manager.cc(143)] SharedImageManager::ProduceGLTexture: Trying to produce a representation from a non-existent mailbox. E2:0E:F8:CB:82:D8:27:7D:A1:A8:23:FF:F4:99:DD:C3
+[88094:775:0626/011717.297415:ERROR:gles2_cmd_decoder.cc(18936)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoCreateAndTexStorage2DSharedImageINTERNAL: invalid mailbox name
+[88094:775:0626/011717.297473:ERROR:gles2_cmd_decoder.cc(18957)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+[88094:775:0626/011717.297508:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.500423:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.500531:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.500553:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.500584:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.511387:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.511450:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.511466:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.511482:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.527273:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.527334:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.527350:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.527366:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.547719:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.547783:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.547802:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.547841:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.566997:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.567149:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.567190:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.567217:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.581046:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.581151:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.581192:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.581228:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.602221:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.602290:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.602346:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.602372:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.615104:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.615173:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.615195:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.615219:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.634898:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.634974:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.634994:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.635008:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.650440:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.650514:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.650548:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.650611:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.666555:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.666653:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.666689:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.666714:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.795087:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.795150:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.795168:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.795181:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.848523:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.848605:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.848637:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.848685:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.868894:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.868974:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.868992:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.869008:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.881635:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.881726:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.881809:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011717.881846:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011718.044616:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011718.044696:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011718.044721:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011718.044750:ERROR:gles2_cmd_decoder.cc(13804)] [.DisplayCompositor]GL ERROR :GL_INVALID_VALUE : glScheduleCALayerCHROMIUM: unsupported texture format
+[88094:775:0626/011718.252942:ERROR:gles2_cmd_decoder.cc(18986)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+[88094:775:0626/011718.253041:ERROR:gles2_cmd_decoder.cc(18986)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+[88094:775:0626/011718.253113:ERROR:gles2_cmd_decoder.cc(18986)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+[88094:775:0626/011718.253140:ERROR:gles2_cmd_decoder.cc(18986)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+[88095:20743:0626/012538.061520:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -202
+[88085:30979:0626/012538.062317:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -202
+[88095:20743:0626/013208.683245:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[88095:20743:0626/013208.686238:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[88095:20743:0626/013208.686586:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101

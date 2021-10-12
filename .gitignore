@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+egoSlider_Visual_Analysis_of_Egocentric_Network_Evolution.pdf
+server/logs
+meetings
+egoslider
