@@ -6,7 +6,7 @@ function randomString(length, chars) {
 if(!window.localStorage["userid"]){
     window.localStorage["userid"] = randomString(16, 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ')
 }
-const userid = window.localStorage["userid"];
+const userid = document.getElementById('script_mousetrack').getAttribute("userid") || window.localStorage["userid"];
 const collectionName = document.getElementById('script_mousetrack').getAttribute("collection");
 const appname = document.getElementById('script_mousetrack').getAttribute("appname");
 const appkey = document.getElementById('script_mousetrack').getAttribute("appkey");
